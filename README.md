@@ -1,5 +1,5 @@
 # prompt-tuner
-This is a simple, self-contained prompt tuner coded in Python. Suggestions for improvement welcome!
+This is a simple, prompt tuner coded in Python and packaged with PyInstaller to be self-contained. Suggestions for improvement welcome!
 
 Please, be gentle as I'm very new to programming and github in general.
 
